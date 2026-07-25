@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://onrender.com" }
+    { "source": "/(.*)", "destination": "https://wn-dn.onrender.com/" }
   ]
 }
